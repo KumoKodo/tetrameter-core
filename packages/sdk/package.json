@@ -1,6 +1,6 @@
 {
   "name": "@kumokodo/tetrameter-sdk",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Metadata-only collector for Tetrameter. Records LLM call metadata — never prompt content — and groups multi-call agent runs into traces.",
   "license": "Apache-2.0",
   "type": "module",
@@ -41,11 +41,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samwsimpson/tetrameter-core.git",
+    "url": "git+https://github.com/KumoKodo/tetrameter-core.git",
     "directory": "packages/sdk"
   },
   "homepage": "https://tetrameter.ai",
   "bugs": {
-    "url": "https://github.com/samwsimpson/tetrameter-core/issues"
+    "url": "https://github.com/KumoKodo/tetrameter-core/issues"
   }
 }

@@ -95,6 +95,6 @@ can hold a prompt or a completion.
 ## Licence
 
 Apache 2.0. The licence grants no trademark rights: the code is yours to use and fork, the name is
-not. See the [trademark policy](https://github.com/samwsimpson/tetrameter-core/blob/main/TRADEMARK.md).
+not. See the [trademark policy](https://github.com/KumoKodo/tetrameter-core/blob/main/TRADEMARK.md).
 
-Source, methodology and issues: **[github.com/samwsimpson/tetrameter-core](https://github.com/samwsimpson/tetrameter-core)**
+Source, methodology and issues: **[github.com/KumoKodo/tetrameter-core](https://github.com/KumoKodo/tetrameter-core)**

@@ -1,6 +1,6 @@
 {
   "name": "@kumokodo/tetrameter-core",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Tetrameter — four measures of AI inference: energy, carbon, water and land, plus cost. Reference implementation of the Green Software Foundation SCI for AI specification. Every number carries an evidence tier, an uncertainty range and its sources.",
   "license": "Apache-2.0",
   "type": "module",
@@ -35,11 +35,11 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samwsimpson/tetrameter-core.git",
+    "url": "git+https://github.com/KumoKodo/tetrameter-core.git",
     "directory": "packages/core"
   },
   "homepage": "https://tetrameter.ai",
   "bugs": {
-    "url": "https://github.com/samwsimpson/tetrameter-core/issues"
+    "url": "https://github.com/KumoKodo/tetrameter-core/issues"
   }
 }

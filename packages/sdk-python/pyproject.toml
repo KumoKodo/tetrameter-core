@@ -25,7 +25,7 @@ dependencies = []
 
 [project.urls]
 Homepage = "https://tetrameter.ai"
-Source = "https://github.com/samwsimpson/tetrameter-core"
+Source = "https://github.com/KumoKodo/tetrameter-core"
 Methodology = "https://tetrameter.ai/methodology"
 
 [project.optional-dependencies]
